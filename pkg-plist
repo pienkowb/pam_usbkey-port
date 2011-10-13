@@ -1,7 +1,3 @@
 sbin/usbserial
-lib/libpam_usbkey.a
-lib/libpam_usbkey_p.a
 lib/pam_usbkey.so
 lib/pam_usbkey.so.1
-
-@dirrmtry man/pl.UTF-8/man8
