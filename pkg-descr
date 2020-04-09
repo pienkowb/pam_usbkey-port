@@ -1,4 +1,4 @@
-The pam_usbkey module provides hardware authentication using USB devices
+The pam_usbkey module enables hardware authentication based on USB devices
 with a unique serial number.
 
-WWW: https://bitbucket.org/pienkowb/pam_usbkey/
+WWW: https://github.com/pienkowb/pam_usbkey/

@@ -1,3 +1,5 @@
 sbin/usbserial
 lib/pam_usbkey.so
 lib/pam_usbkey.so.1
+man/pl.UTF-8/man1/usbserial.1.gz
+man/pl.UTF-8/man8/pam_usbkey.8.gz
